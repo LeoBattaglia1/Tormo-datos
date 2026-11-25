@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "p-1795561306034",
+    "cliente": "roberto mouzo",
+    "fecha": "2026-11-24",
+    "precioTrabajo": 150000,
+    "pagoRealizado": 120000
+  }
+]
