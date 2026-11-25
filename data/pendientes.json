@@ -1,12 +1,5 @@
 [
   {
-    "id": "p-1795561306034",
-    "cliente": "roberto mouzo",
-    "fecha": "2026-11-24",
-    "precioTrabajo": 150000,
-    "pagoRealizado": 120000
-  },
-  {
     "id": "p-1795562308527",
     "cliente": "leandro",
     "fecha": "2026-11-24",
